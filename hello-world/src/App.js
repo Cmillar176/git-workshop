@@ -10,6 +10,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to Git Workshop!!!!</h2>
         </div>
+        <p> Redmouth whalefish squawfish yellow bass barracuda ghost pipefish topminnow carpsucker gizzard shad sillago topminnow. Burma danio, gulper eel oilfish, Pacific viperfish Moorish idol electric knifefish; prowfish mustard eel Pacific argentine. Clownfish hatchetfish Canthigaster rostrata ribbonfish mola ridgehead bluntnose minnow platy emperor angelfish sand tilefish? French angelfish, redlip blenny halfmoon California halibut. Ponyfish lanternfish lookdown </p>
+        <p> New paragraph here!!! </p>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
